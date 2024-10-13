@@ -1,8 +1,7 @@
 # This program calculates your age in the year 2050.
-# Input:  None
-# Output: Your current age followed by your age in 2050
-
-# Create your variables here
+# Input:  Your current age, follwed by current year.
+# Output: Your current age followed by your age in 2050.
+# Variables are 'myCurrentAge', and 'currentYear'.
 
 myCurrentAge = int(input ("Please put your current age "))
 
